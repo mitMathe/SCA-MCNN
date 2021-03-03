@@ -6,4 +6,9 @@ Link to the paper: https://eprint.iacr.org/2020/1134
 Authors: Yoo-Seung Won (Nanyang Technological University), Xiaolu Hou (Nanyang Technological University), Dirmanto Jap (Nanyang Technological University), Jakub Breier (Graz University of Technology), and Shivam Bhasin (Nanyang Technological University)
 
 # Datasets
-The source code is prepared for four datasets: AES_HD, AES_HD_MM, AES_RD, ASCAD
+The source code is prepared for four datasets: AES_HD, AES_HD_MM, AES_RD, ASCAD.
+The datasets are included to our repository folder.
+
+# Code
+This section provides explanations on how to run the MCNN SCA on the above datasets.
+
