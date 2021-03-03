@@ -13,6 +13,7 @@ The datasets are included to our repository folder.
 Our code has been performed the environment: Tensorflow Version 1.15 and Keras Version 2.1.6.
 
 Each folder has corresponding code (*.py), guessing entropy result (*.npy or *.txt), and trained keras model we saved (*.hdf5).
+
 A few folder don't have a python code.
 
 You can perform our source code by using simple command.
