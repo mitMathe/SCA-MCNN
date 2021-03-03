@@ -10,11 +10,13 @@ The source code is prepared for four datasets: AES_HD, AES_HD_MM, AES_RD, ASCAD.
 The datasets are included to our repository folder.
 
 # Code
-Our code has been performed the below environment.
-Tensorflow Version 1.15
-Keras Version 2.1.6
+Our code has been performed the environment: Tensorflow Version 1.15 and Keras Version 2.1.6.
 
 Each folder has corresponding code (*.py), guessing entropy result (*.npy or *.txt), and keras model we saved (*.hdf5).
 A few folder don't have a python code.
 
-Note: You should check the trace and plaintext path again to use it, even though we put the proper path in the source code.
+You can perform our source code by using simple command.
+
+If you want to run BN(org).py file, you type "python BN(org).py"
+
+Note: You should check the trace,plaintext, and save path again to use it, even though we put the proper path in the source code.
