@@ -46,7 +46,7 @@ G_OPEN_DATASET = "ascad50"
 # "original" "moving_average" "pca"
 G_PREPROCESS = "original"
 
-G_DATA_ROOT_PATH   = "/content/drive/MyDrive/Colab_Data/04_MCNN/ASCAD/N0=50"
+G_DATA_ROOT_PATH   = "../../SCA_DATA/ASCAD/N0=50"
 G_TRAIN_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "ASCAD(N0=50)_profiling_50000tr_700pt_poc.npy"
 G_TRAIN_PLAIN_FILE = G_DATA_ROOT_PATH + "/" + "ASCAD(N0=50)_profiling_50000tr_700pt_poc_plain.npy"
 G_VALID_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "ASCAD(N0=50)_validation_10000tr_700pt_poc.npy"
