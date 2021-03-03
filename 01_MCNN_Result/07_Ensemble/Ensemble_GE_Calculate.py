@@ -308,7 +308,7 @@ def PCA_REDUCTION(DATA_X):
     pca_data = SCA_PCA(DATA_X)
     return (pca_data, [pca_data.shape[1]])
 
-G_DATA_ROOT_PATH   = "/content/drive/MyDrive/Colab_Data/04_MCNN/ASCAD/N0=0"
+G_DATA_ROOT_PATH   = "../../SCA_DATA/ASCAD/N0=0"
 G_TRAIN_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "ASCAD(N0=0)_profiling_50000tr_700pt.npy"
 G_TRAIN_PLAIN_FILE = G_DATA_ROOT_PATH + "/" + "ASCAD(N0=0)_profiling_50000tr_700pt_plain.npy"
 G_VALID_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "ASCAD(N0=0)_validation_10000tr_700pt.npy"
