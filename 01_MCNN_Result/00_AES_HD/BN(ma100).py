@@ -46,7 +46,7 @@ G_OPEN_DATASET = "aes_hd"
 # "original" "moving_average" "pca"
 G_PREPROCESS = "moving_average"
 
-G_DATA_ROOT_PATH   = "/content/drive/MyDrive/Colab_Data/04_MCNN/AES_HD"
+G_DATA_ROOT_PATH   = "../../SCA_DATA/AES_HD"
 G_TRAIN_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "AES_HD_profiling_50000tr_1250pt.npy"
 G_TRAIN_PLAIN_FILE = G_DATA_ROOT_PATH + "/" + "AES_HD_profiling_50000tr_1250pt_cipher.npy"
 G_VALID_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "AES_HD_validation_25000tr_1250pt.npy"
