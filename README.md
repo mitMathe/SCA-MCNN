@@ -28,7 +28,7 @@ If you want to graphically show it, you can download Netron program via https://
 
 If you want to load it in your own source code, you can use tf.keras.model.load_model API function.
 
-# Show the Guessing entropy (GE)
+# Show the Guessing entropy (GE) result
 Every folder has a GE result (*.npy or *.txt).
 
 If you want to load it. you can use numpy.load API function.
