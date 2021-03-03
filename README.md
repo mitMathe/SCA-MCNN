@@ -12,11 +12,23 @@ The datasets are included to our repository folder.
 # Code
 Our code has been performed the environment: Tensorflow Version 1.15 and Keras Version 2.1.6.
 
-Each folder has corresponding code (*.py), guessing entropy result (*.npy or *.txt), and keras model we saved (*.hdf5).
+Each folder has corresponding code (*.py), guessing entropy result (*.npy or *.txt), and trained keras model we saved (*.hdf5).
 A few folder don't have a python code.
 
 You can perform our source code by using simple command.
 
-If you want to run BN(org).py file, you type "python BN(org).py"
+If you want to run BN(org).py file, you type "python BN(org).py" or "python3 BN(org).py".
 
 Note: You should check the trace,plaintext, and save path again to use it, even though we put the proper path in the source code.
+
+# Show the model
+Every folder has a trained model (*.hdf5).
+
+If you want to graphically show it, you can download Netron program via https://github.com/lutzroeder/netron.
+
+If you want to load it in your own source code, you can use tf.keras.model.load_model API function.
+
+# Show the Guessing entropy (GE)
+Every folder has a GE result (*.npy or *.txt).
+
+If you want to load it. you can use numpy.load API function.
