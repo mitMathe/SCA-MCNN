@@ -7,7 +7,8 @@ Authors: Yoo-Seung Won (Nanyang Technological University), Xiaolu Hou (Nanyang T
 
 # Datasets
 The source code is prepared for four datasets: AES_HD, AES_HD_MM, AES_RD, ASCAD.
-The datasets are included to our repository folder.
+
+The datasets are included to our repository folder (SCA_DATA).
 
 # Code
 Our code has been performed the environment: Tensorflow Version 1.15 and Keras Version 2.1.6.
