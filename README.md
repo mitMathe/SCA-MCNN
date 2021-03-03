@@ -37,4 +37,5 @@ If you want to load it. you can use numpy.load API function.
 When we have implemented our MCNN SCA, we have referred some source code as below.
 
 https://github.com/KULeuven-COSIC/TCHES20V3_CNN_SCA
+
 https://github.com/AISyLab/EnsembleSCA
