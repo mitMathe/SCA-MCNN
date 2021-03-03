@@ -46,7 +46,7 @@ G_OPEN_DATASET = "aes_rd"
 # "original" "moving_average" "pca"
 G_PREPROCESS = "original"
 
-G_DATA_ROOT_PATH   = "/content/drive/MyDrive/Colab_Data/04_MCNN/AES_RD"
+G_DATA_ROOT_PATH   = "../../SCA_DATA/AES_RD"
 G_TRAIN_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "AES_RD_profiling_25000tr_3500pt.npy"
 G_TRAIN_PLAIN_FILE = G_DATA_ROOT_PATH + "/" + "AES_RD_profiling_25000tr_3500pt_plain.npy"
 G_VALID_DATA_FILE  = G_DATA_ROOT_PATH + "/" + "AES_RD_validation_25000tr_3500pt.npy"
