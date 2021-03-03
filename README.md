@@ -10,5 +10,11 @@ The source code is prepared for four datasets: AES_HD, AES_HD_MM, AES_RD, ASCAD.
 The datasets are included to our repository folder.
 
 # Code
-This section provides explanations on how to run the MCNN SCA on the above datasets.
+Our code has been performed the below environment.
+Tensorflow Version 1.15
+Keras Version 2.1.6
 
+Each folder has corresponding code (*.py), guessing entropy result (*.npy or *.txt), and keras model we saved (*.hdf5).
+A few folder don't have a python code.
+
+Note: You should check the trace and plaintext path again to use it, even though we put the proper path in the source code.
