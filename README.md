@@ -8,7 +8,7 @@ Authors: Yoo-Seung Won (Nanyang Technological University), Xiaolu Hou (Nanyang T
 # Datasets
 The source code is prepared for four datasets: AES_HD, AES_HD_MM, AES_RD, ASCAD.
 
-You can download all datasets via ???.
+You can download all datasets via https://drive.google.com/file/d/1V5mxKft_qn3TfeoKpwkO89i5gKqJzpQH/view?usp=sharing.
 
 We leave the empty folder for datasets in this repository (SCA_DATA).
 
